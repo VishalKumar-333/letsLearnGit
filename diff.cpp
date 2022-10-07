@@ -11,6 +11,6 @@
     // Member Functions()
     void printname()
     {
-       cout << "Geekname is: " << geekname;
+       cout << "Vishal is: " << geekname;
     }
 };
